@@ -6,7 +6,7 @@ import json
 import os
 from datetime import datetime
 from collections import defaultdict
-
+#v.3
 
 class PersistentQLearningAgent:
     """Agent ที่สามารถ Save/Load ความรู้ได้"""
